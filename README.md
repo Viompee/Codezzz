@@ -1,2 +1,0 @@
-# Codezzz
-My pydroid codes
