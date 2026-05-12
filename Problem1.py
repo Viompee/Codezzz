@@ -1,3 +1,11 @@
+##Objective: Mario and friends (4 people total) are planning a road trip. You need to calculate how many liters of gas you will need, the total cost of the gas, and how much each person needs to pay.
+##Given:
+#The total distance of the trip is 300 kilometers.
+#Your car can travel 12 kilometers on a single liter of gas (fuel efficiency).
+#The current price of gas is 60 per liter.
+##Required: how many liters of gas needed, total cost of gas, payment per person.
+#The Code is below the hashtags
+#######################################################################################################################################################################################################
 # Setting up the trip details
 total_distance = 300 
 km_per_liter = 12 
