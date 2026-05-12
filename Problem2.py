@@ -1,3 +1,12 @@
+##Objective: Mario and his friends are combining their money for an epic pizza and arcade party. You need to write a program that calculates their total pooled budget, their total expenses, how much money is left over, and finally, how to split the remaining cash equally among the group (finding out if there are any extra coins left over that can't be split).
+##Given: 
+#There is Mario + 4 friends (5 people total).
+#The Budget: Mario brings 512. Each of his 4 friends contributes 250.
+#The Expenses:  They buy 5 large pizzas. Each pizza costs 125.
+#They buy 100 arcade tokens. Each token costs 5.
+##Required: how much money is left over, how to split the remaining cash equally among the group (finding out if there are any extra coins left over that can't be split).
+#The Code is below the hashtags
+#########################################################################################################################################################################################################################################################################################################################################################################
 # 1. Setting up the group and the budget
 mario_money = 512
 friend_contribution = 250
