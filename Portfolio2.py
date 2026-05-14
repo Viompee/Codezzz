@@ -1,4 +1,4 @@
-#The Code:
+#The Code: 
 #Get the input from the user
 # Ask Piattos for his coin count
 raw_input = input("How many coins do you have, Piattos? ")
